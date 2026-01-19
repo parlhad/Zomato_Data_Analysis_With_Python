@@ -1,11 +1,9 @@
-## 🍽️ Zomato Data Analysis – Questions, Insights & Business Value
-python, data-analysis, exploratory-data-analysis, zomato, pandas, matplotlib, seaborn, food-tech, data-analytics
 # 🍽️ Zomato Data Analysis with Python – Business Analytics Project
 
 An end-to-end **Python-based Exploratory Data Analysis (EDA)** project performed on Zomato restaurant data to understand **restaurant distribution, ratings behavior, online delivery adoption, and market dominance**.
 
 This project focuses on transforming raw restaurant data into **business-ready insights** that can support decision-making in the food-tech domain.
-
+python, data-analysis, exploratory-data-analysis, zomato, pandas, matplotlib, seaborn, food-tech, data-analytics
 ---
 
 ## 📌 Project Overview
