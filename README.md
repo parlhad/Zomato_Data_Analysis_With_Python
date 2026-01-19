@@ -1,4 +1,6 @@
 ## 🍽️ Zomato Data Analysis – Questions, Insights & Business Value
+python, data-analysis, exploratory-data-analysis, zomato, pandas, matplotlib, seaborn, food-tech, data-analytics
+
 
 **Q1️⃣ How many restaurants are present in the dataset with valid ratings?**  
 **Insight:** The dataset contains **7,403 rated restaurants** after removing unrated entries.  
